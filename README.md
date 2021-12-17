@@ -1,5 +1,7 @@
 # Zihin
 
+`Soket baglantisi ile merkezi hafiza.`
+
 Yapilacaklar.
 - Soket uzerinden Zihin'e baglanti acilir. 
 - Ister paylasimli listeler, ister paylasimsiz listeler Zihin'e gonderilir.
